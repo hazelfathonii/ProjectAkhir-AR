@@ -1,0 +1,8 @@
+Model Information:
+* title:	T' Challa - Black Panther
+* source:	https://sketchfab.com/3d-models/t-challa-black-panther-fed5ec3ad22b4b0dbec13238ff7b32ea
+* author:	Tigerar1 (https://sketchfab.com/allanromanreyes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

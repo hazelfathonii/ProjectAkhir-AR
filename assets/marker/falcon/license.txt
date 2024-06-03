@@ -1,0 +1,11 @@
+Model Information:
+* title:	Falcon (Textured) (Rigged)
+* source:	https://sketchfab.com/3d-models/falcon-textured-rigged-c511f1b37f6e4ad69b566425917b62f7
+* author:	CAPTAAINR (https://sketchfab.com/CAPTAAINR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Falcon (Textured) (Rigged)" (https://sketchfab.com/3d-models/falcon-textured-rigged-c511f1b37f6e4ad69b566425917b62f7) by CAPTAAINR (https://sketchfab.com/CAPTAAINR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

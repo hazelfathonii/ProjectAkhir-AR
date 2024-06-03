@@ -1,0 +1,11 @@
+Model Information:
+* title:	Captain Marvel
+* source:	https://sketchfab.com/3d-models/captain-marvel-7675732842ff4798ba3d9665f1debd04
+* author:	Shivam.Yadav (https://sketchfab.com/Shivam.Yadav)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Captain Marvel" (https://sketchfab.com/3d-models/captain-marvel-7675732842ff4798ba3d9665f1debd04) by Shivam.Yadav (https://sketchfab.com/Shivam.Yadav) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
